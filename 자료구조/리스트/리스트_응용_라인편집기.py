@@ -1,5 +1,5 @@
 def myLineEditor():
-    list = ArrayList()
+    list = []
 
     while True:
         command = input("[메뉴선택] i-입력, d-삭제, r-변경, p-출력, 1-파일읽기, s-저장, q-종료 =>")
